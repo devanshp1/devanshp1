@@ -9,7 +9,6 @@
 
 ## 📊 GitHub Stats
 
-### Github Activity
 ![GitHub stats](https://github-readme-stats-multiuser.vercel.app/api?usernames=devanshp1,devansh-pal-webkul&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&hide_title=true)
 
 ## 🛠️ What I Do Best
