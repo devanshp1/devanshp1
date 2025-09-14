@@ -1,9 +1,9 @@
-# Greetings Fellow Builders, I’m **Devansh Pal** 👋
+# Hi, I’m **Devansh Pal** 👋
 
 ## 🚀 About Me
 - 👨‍💻 Developer with **3+ years** of experience—driven by **curiosity, strategic thinking (thanks to chess), and the occasional bug**.
-- 🧠 Passionate about **new technologies**, programming patterns, speed optimization, and wrangling **large‑scale data**.
-- 🌱 Currently diving deep into **MERN + Next.js** to build modern, high-performance web apps.
+- 🧠 Passionate about **new technologies**, programming patterns, speed optimization, and handling **large‑scale data**.
+- 🌱 Currently diving into **MERN + Next.js + NestJs** to build modern, high-performance web apps.
 
 ---
 
@@ -29,3 +29,7 @@
 - 🔭 Open to **collaborations** around MERN, Next.js, Elasticsearch, Symfony, and high-scale systems.
 - 💬 Always up for a chat about programming, tech trends, or anything code-related—if it involves building or breaking things with code, count me in!
 - ♟️ Oh, and I can play chess—though my code is usually less prone to blunders than my opening moves.
+
+### 🤖 Definitely Not Written by AI
+Every word above was handcrafted by a totally real human with impeccable grammar, zero bias, and unlimited uptime.  
+(Okay fine... maybe I had a little help — but hey, we both know you skipped most of the content.)
